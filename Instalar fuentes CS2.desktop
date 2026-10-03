@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Instalar fuentes CS2
+Comment=Instalador de fuentes para CS2 (cambiar fuente o restaurar original)
+Exec=bash "/home/david/Documentos/IA/IA/Instalador fuentes CS2/instalar_fuentes_CS2.sh"
+Path=/home/david/Documentos/IA/IA/Instalador fuentes CS2
+Terminal=true
+Categories=Utility;
+StartupNotify=false
